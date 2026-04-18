@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
-  <img align="right src="https://drive.google.com/file/d/1MeSr48-2mVOEAeG-VtLVUoUwXZWCL59u/view?usp=sharing" />
+ ![Gitani GIF](gitani.gif)
 
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
