@@ -20,11 +20,28 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lQDNnDPtZzS2hrTA7rEZXK1Rsa0usdOI/view?usp=drive_link](https://drive.google.com/file/d/1lQDNnDPtZzS2hrTA7rEZXK1Rsa0usdOI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://dev.to/sivadev.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sivadev.tech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-siva-shankar-684b3130a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siva_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siva_63" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siva63sxf7" height="30" width="40" /></a>
+</p> -->
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://dev.to/sivadev.tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://www.leetcode.com/siva_63" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
