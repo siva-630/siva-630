@@ -2,7 +2,9 @@
     <img src="gitani.gif" width="900" height="300" style="border-radius: 50;" />
   </div>
 <h1 align="center">
-  Hi there, I'm <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">Siva</a> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/975b2e71805451.5ca68c8ab8cb6.gif"  width="100"  />
+  Hi there, I'm <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">Siva</a> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/975b2e71805451.5ca68c8ab8cb6.gif"  width="100"  />     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97589d71805451.5ca68c8b14fee.gif"  width="100"  />  
+
+
 </h1>
 <h3 align="center"><b><span style="color:#00ADB5;">Full Stack Developer</span></b></h3>
 
