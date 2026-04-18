@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-630&label=Profile%20views&color=0e75b6&style=flat" alt="siva-630" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-630" alt="siva-630" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img  align="right" alt="Coding" width="400" src="https://app.lottiefiles.com/share/755d4037-9839-4361-b363-84053f7a59c1"/>
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
 - 🌱 I’m currently learning **scrimba**
 
-- 👨‍💻 All of my projects are available at [https://sivadev.tech/](https://sivadev.tech/)
+- 👨‍💻 All of my projects are available at [sivadev.tech](sivadev.tech)
 
 - 💬 Ask me about **Driven Full-Stack Web Developer (MERN Stack) with hands-on experience in building scalable and responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, with experience developing RESTful APIs, CRUD operations, and clean, maintainable code. Passionate about delivering high-quality software solutions and continuously improving technical skills.**
 
@@ -21,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://sivadev.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://sivadev.tech/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/n-siva-shankar-684b3130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-siva-shankar-684b3130a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/siva_63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/siva_63/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/siva63sxf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/siva63sxf7" height="30" width="40" /></a>
+<a href="https://dev.to/sivadev.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sivadev.tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-siva-shankar-684b3130a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siva_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siva_63" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siva63sxf7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
