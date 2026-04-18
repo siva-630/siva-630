@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
-<img  align="right" alt="Coding" width="400" src="https://app.lottiefiles.com/share/755d4037-9839-4361-b363-84053f7a59c1"/>
+<img  align="right" alt="Coding" width="400" src="[https://app.lottiefiles.com/share/755d4037-9839-4361-b363-84053f7a59c1](https://i.gifer.com/5TMy.gif)"/>
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
 - 🌱 I’m currently learning **scrimba**
