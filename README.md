@@ -2,7 +2,9 @@
     <img src="gitani.gif" width="900" height="300" style="border-radius: 50;" />
   </div>
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center" style="color:#00ADB5; font-size:22px; font-weight:bold;">
+  Full Stack Developer
+</h3>
 
 
 
