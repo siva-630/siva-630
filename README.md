@@ -27,11 +27,11 @@
 <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siva63sxf7" height="30" width="40" /></a>
 </p> -->
 <p align="left" style="display: flex; gap: 12px; align-items: center;">
-  <div> 
+  <p> 
   <a href="https://sivadev.tech" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
   </a>
-  </div>
+  </p>
 <div>
   <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
