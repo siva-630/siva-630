@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
-<img  align="right" alt="Coding" width="400" src="[https://app.lottiefiles.com/share/755d4037-9839-4361-b363-84053f7a59c1](https://i.gifer.com/5TMy.gif)"/>
+
+<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/5TMy" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com"></a></p>
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
 - 🌱 I’m currently learning **scrimba**
