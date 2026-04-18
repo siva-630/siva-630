@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://sivadev.tech/" target="_blank">portfolio</a>
 
-- 💬 Ask me about **<h1> Full-Stack Web Developer (MERN Stack) <h1> **
+- 💬 Ask me about ** Full-Stack Web Developer (MERN Stack)  **
 
 - 📫 Reach Me At **siva630029@gmail.com**
 
