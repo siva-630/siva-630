@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
 
-<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/5TMy" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com"></a></p>
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
 - 🌱 I’m currently learning **scrimba**
