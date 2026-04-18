@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
+<img width="400" height="500" border-radius='20px' alt="image" src="https://github.com/user-attachments/assets/b77d49b5-4e31-4446-8e01-327c32dbd8fb" />
 
-<img align="right" alt="Coding" width="400 border-radius=50px" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)"/>
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
 - 🌱 I’m currently learning **scrimba**
