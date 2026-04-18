@@ -1,4 +1,4 @@
-  <img src="gitani.gif" align="right" width="900" height="400" style="border-radius: 50;" />
+  <p><img src="gitani.gif" align="right" width="900" height="400" style="border-radius: 50;" /></p>
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
 
