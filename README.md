@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
-<img width="400" height="500" border-radius='20px' alt="image" src="https://github.com/user-attachments/assets/b77d49b5-4e31-4446-8e01-327c32dbd8fb" />
+http://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0
 
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
