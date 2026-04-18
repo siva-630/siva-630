@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
 
-- 🌱 I’m currently learning **scrimba**
+-🌱 Currently building and developing Myself
 
 - 👨‍💻 All of my projects are available at <a href="https://sivadev.tech/" target="_blank">portfolio</a>
 
-- 💬 Ask me about **Driven Full-Stack Web Developer (MERN Stack) with hands-on experience in building scalable and responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, with experience developing RESTful APIs, CRUD operations, and clean, maintainable code. Passionate about delivering high-quality software solutions and continuously improving technical skills.**
+- 💬 Ask me about **<h1> Full-Stack Web Developer (MERN Stack) <h1> **
 
-- 📫 How to reach me **siva630029@gmail.com**
+- 📫 Reach Me At **siva630029@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1lQDNnDPtZzS2hrTA7rEZXK1Rsa0usdOI/view?usp=drive_link)
 
