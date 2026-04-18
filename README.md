@@ -2,7 +2,7 @@
     <img src="gitani.gif" width="900" height="300" style="border-radius: 50;" />
   </div>
 <h1 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, I'm <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">Siva</a>&nbsp; <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/975b2e71805451.5ca68c8ab8cb6.gif"  width="100"  />  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97589d71805451.5ca68c8b14fee.gif"  width="80"  />  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, I'm <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">Siva</a>&nbsp; <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/975b2e71805451.5ca68c8ab8cb6.gif"  width="100"  />  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97589d71805451.5ca68c8b14fee.gif"  width="80"  />  
 
 </h1>
 
