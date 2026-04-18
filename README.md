@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm N Siva Shankar</h1>
 <h3 align="center">Full stack developer</h3>
 
-  <img src="gitani.gif" align="right" width="300" style="border-radius: 15px;" />
+  <img src="gitani.gif" align="right" width="300" height="400" style="border-radius: 50px;" />
 
 
 - 🔭 I’m currently working on **Real-Time Collaboration Platform**
