@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **scrimba**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://sivadev.tech/)
+- 👨‍💻 All of my projects are available at <a href="https://sivadev.tech/" target="_blank">portfolio</a>
 
 - 💬 Ask me about **Driven Full-Stack Web Developer (MERN Stack) with hands-on experience in building scalable and responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, with experience developing RESTful APIs, CRUD operations, and clean, maintainable code. Passionate about delivering high-quality software solutions and continuously improving technical skills.**
 
