@@ -44,25 +44,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://expressjs.com" target="_blank" style="text-decoration:none;">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://firebase.google.com/" target="_blank" style="text-decoration:none;">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://cloud.google.com" target="_blank" style="text-decoration:none;">
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
+</p>
 
   <!-- continue same pattern for all -->
 </p>
