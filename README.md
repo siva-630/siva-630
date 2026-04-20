@@ -27,13 +27,19 @@
 
 <p align="left">
   <a href="https://sivadev.tech" target="_blank">
-  &nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
-  </a><a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
-   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a><a href="https://www.leetcode.com/siva_63" target="_blank">
-   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
-  </a><a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="_blank">
-    &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/siva_63" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
   </a>
 </p>
 <!-- </p> -->
