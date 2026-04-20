@@ -55,10 +55,18 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&show_icons=true&locale=en&layout=compact" alt="siva-630" /></p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&locale=en" alt="siva-630" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&" alt="siva-630" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&" alt="siva-630" /></p> -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+</p>
