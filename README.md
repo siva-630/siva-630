@@ -63,7 +63,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&" alt="siva-630" /></p> -->
 <p align="center">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,c" />
+</p>
   &nbsp;&nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%2B%2B,c" />
 </p>
