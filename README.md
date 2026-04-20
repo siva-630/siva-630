@@ -55,9 +55,10 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&show_icons=true&locale=en&layout=compact" alt="siva-630" /></p> -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&locale=en" alt="siva-630" /></p>
