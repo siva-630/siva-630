@@ -15,7 +15,7 @@
 
 -🌱 Currently building and developing Myself
 
-- 👨‍💻 All of my projects are available at <a href="https://sivadev.tech/" target="_blank">portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://sivadev.tech/" target="_blank">portfolio</a><img src="https://i.pinimg.com/originals/4e/f0/f3/4ef0f31e574a089c2262d9196a225acc.gif"  /> 
 
 - 💬 Ask me about ** Full-Stack Web Developer (MERN Stack)  **
 
