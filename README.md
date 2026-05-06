@@ -45,13 +45,11 @@
 
 <p align="left">
   <a href="https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r" target="_blank">
-    <img src="./icons8-html-5-48.png" width="60"
-         style="border-radius:50%; margin-right:10px;"/>
+    <img src="./icons8-html-5-48.png" width="60" height="60" style="border-radius:50%;" />
   </a>
 
   <a href="https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r" target="_blank">
-    <img src="./icons8-css-48.png" width="60"
-         style="border-radius:50%;"/>
+    <img src="./icons8-css-48.png" width="60" height="60" style="border-radius:50%;" />
   </a>
 </p>
 
