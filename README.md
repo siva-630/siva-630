@@ -44,9 +44,9 @@
 <h3 align="left">🛠️ Skills:</h3>
 
 <p align="left">
-  <a href="https://react.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/react.png" width="50"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./icons8-html-5-48.png" width="60"/>
+</a>
 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/node.png" width="50"/>
