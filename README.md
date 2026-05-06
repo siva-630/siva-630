@@ -41,21 +41,27 @@
   </a>
 </p>
 
+<h3 align="left">🛠️ Skills:</h3>
 
+<p align="left">
+  <a href="https://react.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/react.png" width="50"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/node.png" width="50"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/mongo.png" width="50"/>
+  </a>
+</p>
 
 </p>
 
   <!-- continue same pattern for all -->
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&show_icons=true&locale=en&layout=compact" alt="siva-630" /></p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siva-630&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&locale=en" alt="siva-630" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&" alt="siva-630" /></p> -->
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=siva-630&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
