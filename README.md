@@ -44,17 +44,11 @@
 <h3 align="left">🛠️ Skills:</h3>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r" target="_blank">
   <img src="./icons8-html-5-48.png" width="60"/>
 </a>
 
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/node.png" width="50"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/siva-630/your-repo/main/assets/mongo.png" width="50"/>
-  </a>
+  
 </p>
 
 </p>
