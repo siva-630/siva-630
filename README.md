@@ -132,6 +132,14 @@
   <a href="nextjs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
   </a>
+
+
+   <img 
+    src="https://cdn.simpleicons.org/mysql/4479A1"
+    width="65"
+    height="65"
+    alt="MySQL"
+  />
 </p> 
 
 
