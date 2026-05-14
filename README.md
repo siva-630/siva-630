@@ -134,14 +134,37 @@
   </a>
 
 
-   <img 
+  <a href="nextjs" target="_blank">
+      <img 
     src="https://cdn.simpleicons.org/mysql/4479A1"
     width="65"
     height="65"
     alt="MySQL"
 
-  onclick="open(https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r)"
   />
+  </a>
+
+
+   <a href="#" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/mongodb/47A248"
+    width="65"
+    height="65"
+    alt="MongoDB"
+    
+  />
+</a>
+<!-- Tailwind CSS -->
+<a href="#" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+    width="65"
+    height="65"
+    alt="Tailwind CSS"
+   
+  />
+</a>
+
 </p> 
 
 
