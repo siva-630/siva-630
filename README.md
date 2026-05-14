@@ -70,6 +70,13 @@
   alt="JavaScript"
 />
   </a>
+
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  width="65" 
+  height="65" 
+  alt="Node.js"
+/>
 </p> 
 
 
