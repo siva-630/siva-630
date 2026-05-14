@@ -6,7 +6,7 @@
 
 </h1>
 
-<h3 align="center"><b><span style="color:#00ADB5;">Full Stack Developer</span></b></h3>
+<!-- <h3 align="center"><b><span style="color:#00ADB5;">Full Stack Developer</span></b></h3>
 
 
 
@@ -39,6 +39,88 @@
   <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
   </a>
+</p> -->
+
+
+<h3 align="center">
+  <b>
+    <span style="color:#00ADB5;">🚀 Full Stack Developer</span>
+  </b>
+</h3>
+
+<br/>
+
+<ul>
+  <li>🔭 Currently working on <b>Real-Time Collaboration Platform</b></li>
+
+  <br/>
+
+  <li>🌱 Currently building and improving <b>myself every day</b></li>
+
+  <br/>
+
+  <li>
+    👨‍💻 All of my projects are available at
+    <a href="https://sivadev.tech/" target="_blank">
+      <b>Portfolio</b>
+    </a>
+  </li>
+
+  <br/>
+
+  <li>💬 Ask me about <b>MERN Stack & Full-Stack Web Development</b></li>
+
+  <br/>
+
+  <li>📫 Reach me at <b>siva630029@gmail.com</b></li>
+
+  <br/>
+
+  <li>
+    📄 Know about my experiences
+    <a href="https://drive.google.com/file/d/1lQDNnDPtZzS2hrTA7rEZXK1Rsa0usdOI/view?usp=drive_link" target="_blank">
+      <b>Resume</b>
+    </a>
+  </li>
+</ul>
+
+<br/>
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+<p align="left">
+
+  <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="50"
+      height="50"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/siva_63" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      width="50"
+      height="50"
+      alt="LeetCode"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/siva63sxf7" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46"
+      width="50"
+      height="50"
+      alt="GeeksforGeeks"
+    />
+  </a>
+
 </p>
 
 <h3 align="left">🛠️ Skills & 📜 Certifications:</h3>
