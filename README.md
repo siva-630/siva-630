@@ -71,7 +71,7 @@
 />
   </a>
 
-    </a>
+  
   <a href="nodejs" target="_blank">
     <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
