@@ -55,10 +55,20 @@
   </a>
 
   <a href="https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r" target="_blank">
-    <img src="./icons8-css-48.png" width="60" height="60" style="border-radius:50%;" />
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+  width="65" 
+  height="65" 
+  alt="CSS3"
+/>
   </a>
   <a href="https://scrimba.com/learn-javascript-c0v;cert24zAwPPowVZ8NV5jDxdeH1C6xPTy98DmxqX6c" target="_blank">
-    <img src="./js.png" width="40" height="50" style="border-radius80%;" />
+   <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+  width="65" 
+  height="65" 
+  alt="JavaScript"
+/>
   </a>
 </p> 
 
