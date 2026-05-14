@@ -80,7 +80,7 @@
 </td>
 
 <td>
-<img height="160" src="https://streak-stats.demolab.com?user=siva-630&theme=tokyonight&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5"/>
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-630&theme=tokyonight&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" /> 
 </td>
 </tr>
 </table>
