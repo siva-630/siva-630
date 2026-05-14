@@ -52,7 +52,7 @@
     <img src="./icons8-css-48.png" width="60" height="60" style="border-radius:50%;" />
   </a>
   <a href="https://scrimba.com/learn-javascript-c0v;cert24zAwPPowVZ8NV5jDxdeH1C6xPTy98DmxqX6c" target="_blank">
-    <img src="./js.png" width="50" height="50" style="border-radius80%;" />
+    <img src="./js.png" width="40" height="50" style="border-radius80%;" />
   </a>
 </p>
 
