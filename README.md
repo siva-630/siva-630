@@ -134,7 +134,7 @@
   </a>
 
 
-  <a href="nextjs" target="_blank">
+  <a href="mysql" target="_blank">
       <img 
     src="https://cdn.simpleicons.org/mysql/4479A1"
     width="65"
@@ -145,25 +145,27 @@
   </a>
 
 
-   <a href="#" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/mongodb/47A248"
+  <a href="mysql" target="_blank">
+      <img 
+src="https://cdn.simpleicons.org/mongodb/47A248"
     width="65"
     height="65"
-    alt="MongoDB"
-    
+    alt="MySQL"
+
   />
-</a>
-<!-- Tailwind CSS -->
-<a href="#" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+  </a>
+
+
+  <a href="mysql" target="_blank">
+      <img 
+     src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
     width="65"
     height="65"
-    alt="Tailwind CSS"
-   
+    alt="MySQL"
+
   />
-</a>
+  </a>
+
 
 </p> 
 
