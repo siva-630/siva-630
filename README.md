@@ -52,8 +52,9 @@
   height="65" 
   alt="HTML5"
 />
-  </a>
 
+  </a>
+      &nbsp;&nbsp;&nbsp;
   <a href="https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r" target="_blank">
   <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
@@ -62,6 +63,7 @@
   alt="CSS3"
 />
   </a>
+        &nbsp;&nbsp;&nbsp;
   <a href="https://scrimba.com/learn-javascript-c0v;cert24zAwPPowVZ8NV5jDxdeH1C6xPTy98DmxqX6c" target="_blank">
    <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
@@ -70,6 +72,7 @@
   alt="JavaScript"
 />
   </a>
+        &nbsp;&nbsp;&nbsp;
 
   
   <a href="nodejs" target="_blank">
@@ -80,28 +83,33 @@
   alt="Node.js"
 />
   </a>
+        &nbsp;&nbsp;&nbsp;
 
 
   <a href="express" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express.js"/>
   </a>
+        &nbsp;&nbsp;&nbsp;
 
   <a href="react" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React.js"/>
   </a>
+        &nbsp;&nbsp;&nbsp;
   
   <a href="firebase" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase"/>
   </a>
+        &nbsp;&nbsp;&nbsp;
   
  <a href="superbase" target="_blank">
  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="65" height="65" alt="Supabase"/>
   </a>
+        &nbsp;&nbsp;&nbsp;
 
    <a href="ts" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript"/>
   </a>
-
+      &nbsp;&nbsp;&nbsp;
   <a href="nextjs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
   </a>
