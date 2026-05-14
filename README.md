@@ -28,7 +28,7 @@
 <p align="left">
  
 
-  <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank">
+ <a href="https://linkedin.com/in/n-siva-shankar-684b3130a/" target="_blank" style="text-decoration:none;">
       <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       width="55"
