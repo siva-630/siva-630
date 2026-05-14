@@ -138,45 +138,14 @@
   </a>
 
    <a href="nextjs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="65" height="65" alt="Next.js"/>
   </a>
 
    <a href="nextjs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
-  </a>
+    <img  src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="65" height="65" alt="Next.js"/>
+   </a>
 
 
-  <a href="mysql" target="_blank">
-      <img 
-    src="https://cdn.simpleicons.org/mysql/4479A1"
-    width="65"
-    height="65"
-    alt="MySQL"
-
-  />
-  </a>
-
-
-  <a href="mysql" target="_blank">
-      <img 
-src="https://cdn.simpleicons.org/mongodb/47A248"
-    width="65"
-    height="65"
-    alt="MySQL"
-
-  />
-  </a>
-
-
-  <a href="mysql" target="_blank">
-      <img 
-     src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-    width="65"
-    height="65"
-    alt="MySQL"
-
-  />
-  </a>
 
 
 </p> 
