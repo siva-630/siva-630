@@ -71,12 +71,40 @@
 />
   </a>
 
-  <img 
+    </a>
+  <a href="nodejs" target="_blank">
+    <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
   width="65" 
   height="65" 
   alt="Node.js"
 />
+  </a>
+
+
+  <a href="express" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express.js"/>
+  </a>
+
+  <a href="react" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React.js"/>
+  </a>
+  
+  <a href="firebase" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase"/>
+  </a>
+  
+ <a href="superbase" target="_blank">
+ <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="65" height="65" alt="Supabase"/>
+  </a>
+
+   <a href="ts" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript"/>
+  </a>
+
+  <a href="nextjs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
+  </a>
 </p> 
 
 
