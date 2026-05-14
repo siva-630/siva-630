@@ -140,7 +140,7 @@
     height="65"
     alt="MySQL"
 
-  onclick="open('https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r')"
+  onclick="open(https://scrimba.com/learn-html-and-css-c0p;cert24zAwPPowVZ8NV5jDxdeH1AcfGBRyPTVwc87r)"
   />
 </p> 
 
