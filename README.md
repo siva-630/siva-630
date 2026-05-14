@@ -34,6 +34,7 @@
       width="55"
       height="55"
       alt="LinkedIn"
+      style="display:block;"
     />
   </a>&nbsp;&nbsp;&nbsp;
 
