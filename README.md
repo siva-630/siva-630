@@ -94,7 +94,7 @@
         &nbsp;&nbsp;&nbsp;
 
   
-  <a href="nodejs" target="_blank">
+  <a href="https://scrimba.com/@siva-630:certs;cert2ffentAFNmez1HHBSAbnvW2J3yft5KWvsGUpAc41wtJQzc" target="_blank">
     <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
   width="65" 
@@ -105,12 +105,12 @@
         &nbsp;&nbsp;&nbsp;
 
 
-  <a href="express" target="_blank">
+  <a href="https://scrimba.com/@siva-630:certs;cert2ffentAFNmez1HHBSAbnvWGDnZv7yQQAAJmM3SeHbjoPjB" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express.js"/>
   </a>
         &nbsp;&nbsp;&nbsp;
 
-  <a href="react" target="_blank">
+  <a href="https://scrimba.com/@siva-630:certs;cert24zAwPPowVZ8NV5jDxdeH17tTCVSqCizagd4t" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React.js"/>
   </a>
         &nbsp;&nbsp;&nbsp;
