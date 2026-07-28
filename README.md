@@ -21,7 +21,7 @@
 
 - 📫 Reach Me At **siva630029@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1lQDNnDPtZzS2hrTA7rEZXK1Rsa0usdOI/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1btugEAkOO-i2YDFOiPbMmc2cWja1j4o5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
